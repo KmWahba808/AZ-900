@@ -258,7 +258,7 @@
 
 ---
 
-### 24. "An Azure region contains one or more data centers that are connected by using a low-latency network." Is the underlined text correct?
+### 24. "An Azure region <u>contains one or more data centers that are connected by using a low-latency network</u>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Is found in each country where Microsoft has a subsidiary office
@@ -270,7 +270,7 @@
 
 ---
 
-### 25. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines to the same Azure region." Is the underlined portion correct?
+### 25. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <u>to the same Azure region</u>." Is the underlined portion correct?
 
 - [ ] A. No change is needed
 - [ ] B. by using the same Azure Resource Manager template
@@ -294,7 +294,7 @@
 
 ---
 
-### 27. "One of the benefits of Azure SQL Data Warehouse is that high availability is built into the platform." Is the underlined text correct?
+### 27. "One of the benefits of Azure SQL Data Warehouse is that <u>high availability</u> is built into the platform." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. automatic scaling
@@ -665,7 +665,7 @@
 
 ---
 
-### 59. "Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts." Is the underlined text correct?
+### 59. "Azure Key Vault is used to store secrets for <u>Azure Active Directory (Azure AD) user accounts</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Azure Active Directory (Azure AD) administrative accounts
@@ -701,7 +701,7 @@
 
 ---
 
-### 62. "Azure Germany can be used by legal residents of Germany only." Is the underlined text correct?
+### 62. "Azure Germany can be used by <u>legal residents of Germany only</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. only enterprises that are registered in Germany
@@ -802,7 +802,7 @@
 
 ---
 
-### 71. "Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions." Is the underlined text correct?
+### 71. "<u>Resource groups</u> provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Management groups
@@ -950,7 +950,7 @@
 
 ---
 
-### 84. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. Microsoft will automatically refund your bank account." Is the underlined text correct?
+### 84. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <u>Microsoft will automatically refund your bank account</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. migrate the resource to another subscription
@@ -974,7 +974,7 @@
 
 ---
 
-### 86. "If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least 12 months before." Is the underlined text correct?
+### 86. "If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least <u>12 months before</u>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. 6 months
@@ -1016,7 +1016,7 @@
 
 ---
 
-### 90. "A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a Standard support plan." Is the underlined text correct?
+### 90. "A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a <u>Standard support plan</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Developer
@@ -1040,7 +1040,7 @@
 
 ---
 
-### 92. "You can create an Azure support request from support.microsoft.com." Is the underlined text correct?
+### 92. "You can create an Azure support request from <u>support.microsoft.com</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. the Azure portal
@@ -1062,7 +1062,7 @@
 
 ---
 
-### 94. "The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone." Is the underlined text correct?
+### 94. "The Azure <u>Standard</u> support plan is the lowest cost option to receive 24x7 access to support engineers by phone." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Developer
@@ -1095,7 +1095,7 @@
 
 ---
 
-### 97. "Azure Databricks is an Apache Spark-based analytics service." Is the underlined text correct?
+### 97. "<u>Azure Databricks</u> is an Apache Spark-based analytics service." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Azure Data Factory
@@ -1119,7 +1119,7 @@
 
 ---
 
-### 99. "From Azure Cloud Shell, you can track your company's regulatory standards and regulations, such as ISO 27001." Is the underlined text correct?
+### 99. "From Azure <u>Cloud Shell</u>, you can track your company's regulatory standards and regulations, such as ISO 27001." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. the Microsoft Cloud Partner Portal
@@ -1143,7 +1143,7 @@
 
 ---
 
-### 101. "You can use Advisor recommendations in Azure to send email alerts when the cost of the current billing period exceeds a specified limit." Is the underlined text correct?
+### 101. "You can use <u>Advisor recommendations</u> in Azure to send email alerts when the cost of the current billing period exceeds a specified limit." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Access control (IAM)
@@ -1155,7 +1155,7 @@
 
 ---
 
-### 102. "An Availability Zone in Azure has physically separate locations across two continents." Is the underlined text correct?
+### 102. "An Availability Zone in Azure has physically separate locations <u>across two continents</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. within a single Azure region
@@ -1167,7 +1167,7 @@
 
 ---
 
-### 103. "You have several virtual machines in an Azure subscription. You create a new subscription. The virtual machines cannot be moved to the new subscription." Is the underlined text correct?
+### 103. "You have several virtual machines in an Azure subscription. You create a new subscription. <u>The virtual machines cannot be moved to the new subscription</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. The virtual machines can be moved to the new subscription
@@ -1179,7 +1179,7 @@
 
 ---
 
-### 104. "When planning to migrate a public website to Azure, you must plan to pay monthly usage costs." Is the underlined text correct?
+### 104. "When planning to migrate a public website to Azure, <u>you must plan to pay monthly usage costs</u>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Deploy a VPN
@@ -1191,7 +1191,7 @@
 
 ---
 
-### 105. "You plan to deploy 20 virtual machines. To ensure VM1 cannot connect to the other virtual machines, VM1 must be deployed to a separate virtual network." Is the underlined text correct?
+### 105. "You plan to deploy 20 virtual machines. To ensure VM1 cannot connect to the other virtual machines, VM1 must be deployed <u>to a separate virtual network</u>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. run a different operating system than the other virtual machines
@@ -1203,7 +1203,7 @@
 
 ---
 
-### 106. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines to the same Azure region." Is the underlined text correct?
+### 106. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <u>to the same Azure region</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. by using the same Azure Resource Manager template
@@ -1215,7 +1215,7 @@
 
 ---
 
-### 107. "If a resource group named RG1 has a delete lock, only a member of the global administrators group can delete RG1." Is the underlined text correct?
+### 107. "If a resource group named RG1 has a delete lock, <u>only a member of the global administrators group can delete RG1</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. the delete lock must be removed before an administrator can delete RG1
@@ -1227,7 +1227,7 @@
 
 ---
 
-### 108. "Your company implements Azure policies to automatically add a watermark to Microsoft Word documents that contain credit card information." Is the underlined text correct?
+### 108. "Your company implements <u>Azure policies</u> to automatically add a watermark to Microsoft Word documents that contain credit card information." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. DDoS protection
@@ -1239,7 +1239,7 @@
 
 ---
 
-### 109. "Authorization is the process of verifying a user's credentials." Is the underlined text correct?
+### 109. "<u>Authorizatio</u> is the process of verifying a user's credentials." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. Authentication
@@ -1251,7 +1251,7 @@
 
 ---
 
-### 110. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. Microsoft will automatically refund your bank account." Is the underlined text correct?
+### 110. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <u>Microsoft will automatically refund your bank account</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. automatically migrate the resource to another subscription
@@ -1421,7 +1421,7 @@
 
 ---
 
-### 124. "Data that is stored in the Archive access tier of an Azure Storage account can be accessed at any time by using azcopy.exe." Is the underlined text correct?
+### 124. "Data that is stored in the Archive access tier of an Azure Storage account <u>can be accessed at any time by using azcopy.exe</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. can only be read by using Azure Backup
@@ -1433,7 +1433,7 @@
 
 ---
 
-### 125. "Azure Cosmos DB is an example of a platform as a service (PaaS) offering." Is the underlined text correct?
+### 125. "Azure Cosmos DB is an example of a <u>platform as a service (PaaS)</u> offering." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. infrastructure as a service (IaaS)
@@ -3466,4 +3466,3 @@ Instructions: To answer, drag the appropriate cloud model from the column on the
 > **Box 2: Private Cloud** — Hosted on-premises giving complete control over security.
 >
 > **Box 3: Hybrid Cloud** — Mix of public cloud and on-premises resources; use either as needed.
-
