@@ -258,7 +258,7 @@
 
 ---
 
-### 24. "An Azure region <ins>contains one or more data centers that are connected by using a low-latency network<ins>." Is the underlined text correct?
+### 24. "An Azure region <ins>contains one or more data centers that are connected by using a low-latency network</ins>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Is found in each country where Microsoft has a subsidiary office
@@ -270,7 +270,7 @@
 
 ---
 
-### 25. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <u>to the same Azure region</u>." Is the underlined portion correct?
+### 25. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <ins>to the same Azure region</ins>." Is the underlined portion correct?
 
 - [ ] A. No change is needed
 - [ ] B. by using the same Azure Resource Manager template
@@ -294,7 +294,7 @@
 
 ---
 
-### 27. "One of the benefits of Azure SQL Data Warehouse is that <u>high availability</u> is built into the platform." Is the underlined text correct?
+### 27. "One of the benefits of Azure SQL Data Warehouse is that <ins>high availability</ins> is built into the platform." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. automatic scaling
@@ -665,7 +665,7 @@
 
 ---
 
-### 59. "Azure Key Vault is used to store secrets for <u>Azure Active Directory (Azure AD) user accounts</u>." Is the underlined text correct?
+### 59. "Azure Key Vault is used to store secrets for <ins>Azure Active Directory (Azure AD) user accounts</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Azure Active Directory (Azure AD) administrative accounts
@@ -701,7 +701,7 @@
 
 ---
 
-### 62. "Azure Germany can be used by <u>legal residents of Germany only</u>." Is the underlined text correct?
+### 62. "Azure Germany can be used by <ins>legal residents of Germany only</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. only enterprises that are registered in Germany
@@ -802,7 +802,7 @@
 
 ---
 
-### 71. "<u>Resource groups</u> provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions." Is the underlined text correct?
+### 71. "<ins>Resource groups</ins> provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Management groups
@@ -950,7 +950,7 @@
 
 ---
 
-### 84. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <u>Microsoft will automatically refund your bank account</u>." Is the underlined text correct?
+### 84. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <ins>Microsoft will automatically refund your bank account</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. migrate the resource to another subscription
@@ -974,7 +974,7 @@
 
 ---
 
-### 86. "If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least <u>12 months before</u>." Is the underlined text correct?
+### 86. "If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least <ins>12 months before</ins>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. 6 months
@@ -1016,7 +1016,7 @@
 
 ---
 
-### 90. "A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a <u>Standard support plan</u>." Is the underlined text correct?
+### 90. "A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a <ins>Standard support plan</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Developer
@@ -1040,7 +1040,7 @@
 
 ---
 
-### 92. "You can create an Azure support request from <u>support.microsoft.com</u>." Is the underlined text correct?
+### 92. "You can create an Azure support request from <ins>support.microsoft.com</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. the Azure portal
@@ -1062,7 +1062,7 @@
 
 ---
 
-### 94. "The Azure <u>Standard</u> support plan is the lowest cost option to receive 24x7 access to support engineers by phone." Is the underlined text correct?
+### 94. "The Azure <ins>Standard</ins> support plan is the lowest cost option to receive 24x7 access to support engineers by phone." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Developer
@@ -1095,7 +1095,7 @@
 
 ---
 
-### 97. "<u>Azure Databricks</u> is an Apache Spark-based analytics service." Is the underlined text correct?
+### 97. "<ins>Azure Databricks</ins> is an Apache Spark-based analytics service." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Azure Data Factory
@@ -1119,7 +1119,7 @@
 
 ---
 
-### 99. "From Azure <u>Cloud Shell</u>, you can track your company's regulatory standards and regulations, such as ISO 27001." Is the underlined text correct?
+### 99. "From Azure <ins>Cloud Shell</ins>, you can track your company's regulatory standards and regulations, such as ISO 27001." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. the Microsoft Cloud Partner Portal
@@ -1143,7 +1143,7 @@
 
 ---
 
-### 101. "You can use <u>Advisor recommendations</u> in Azure to send email alerts when the cost of the current billing period exceeds a specified limit." Is the underlined text correct?
+### 101. "You can use <ins>Advisor recommendations</ins> in Azure to send email alerts when the cost of the current billing period exceeds a specified limit." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Access control (IAM)
@@ -1155,7 +1155,7 @@
 
 ---
 
-### 102. "An Availability Zone in Azure has physically separate locations <u>across two continents</u>." Is the underlined text correct?
+### 102. "An Availability Zone in Azure has physically separate locations <ins>across two continents</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. within a single Azure region
@@ -1167,7 +1167,7 @@
 
 ---
 
-### 103. "You have several virtual machines in an Azure subscription. You create a new subscription. <u>The virtual machines cannot be moved to the new subscription</u>." Is the underlined text correct?
+### 103. "You have several virtual machines in an Azure subscription. You create a new subscription. <ins>The virtual machines cannot be moved to the new subscription</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. The virtual machines can be moved to the new subscription
@@ -1179,7 +1179,7 @@
 
 ---
 
-### 104. "When planning to migrate a public website to Azure, <u>you must plan to pay monthly usage costs</u>." Is the underlined text correct?
+### 104. "When planning to migrate a public website to Azure, <ins>you must plan to pay monthly usage costs</ins>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Deploy a VPN
@@ -1191,7 +1191,7 @@
 
 ---
 
-### 105. "You plan to deploy 20 virtual machines. To ensure VM1 cannot connect to the other virtual machines, VM1 must be deployed <u>to a separate virtual network</u>." Is the underlined text correct?
+### 105. "You plan to deploy 20 virtual machines. To ensure VM1 cannot connect to the other virtual machines, VM1 must be deployed <ins>to a separate virtual network</ins>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. run a different operating system than the other virtual machines
@@ -1203,7 +1203,7 @@
 
 ---
 
-### 106. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <u>to the same Azure region</u>." Is the underlined text correct?
+### 106. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <ins>to the same Azure region</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. by using the same Azure Resource Manager template
@@ -1215,7 +1215,7 @@
 
 ---
 
-### 107. "If a resource group named RG1 has a delete lock, <u>only a member of the global administrators group can delete RG1</u>." Is the underlined text correct?
+### 107. "If a resource group named RG1 has a delete lock, <ins>only a member of the global administrators group can delete RG1</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. the delete lock must be removed before an administrator can delete RG1
@@ -1227,7 +1227,7 @@
 
 ---
 
-### 108. "Your company implements <u>Azure policies</u> to automatically add a watermark to Microsoft Word documents that contain credit card information." Is the underlined text correct?
+### 108. "Your company implements <ins>Azure policies</ins> to automatically add a watermark to Microsoft Word documents that contain credit card information." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. DDoS protection
@@ -1239,7 +1239,7 @@
 
 ---
 
-### 109. "<u>Authorizatio</u> is the process of verifying a user's credentials." Is the underlined text correct?
+### 109. "<ins>Authorizatio</ins> is the process of verifying a user's credentials." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. Authentication
@@ -1251,7 +1251,7 @@
 
 ---
 
-### 110. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <u>Microsoft will automatically refund your bank account</u>." Is the underlined text correct?
+### 110. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <ins>Microsoft will automatically refund your bank account</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. automatically migrate the resource to another subscription
@@ -1289,7 +1289,7 @@
 
 ### 113. A company has Premium P2 licenses. Based on the department requirements shown in the table below, which service would you suggest for the Logistics department?
 
-![Department Requirements Table](images/q113_table.jpg)
+![Department Requirements Table](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q113_table.jpg)
 
 - [x] A. Managed Service Identity
 - [ ] B. Identity Protection
@@ -1303,7 +1303,7 @@
 
 ### 114. A company deployed a web service on a VM in a virtual network. An API Management service provides access to this API. Consultant companies must connect to the API over the Internet. Based on the configuration shown below, would the API be available to the consultants over the Internet?
 
-![API Management Virtual Network Configuration](images/q114_config.jpg)
+![API Management Virtual Network Configuration](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q114_config.jpg)
 
 > The API Management gateway is configured with **Virtual Network = External**, connected to the `whizlab-network` VNet in Central US.
 
@@ -1421,7 +1421,7 @@
 
 ---
 
-### 124. "Data that is stored in the Archive access tier of an Azure Storage account <u>can be accessed at any time by using azcopy.exe</u>." Is the underlined text correct?
+### 124. "Data that is stored in the Archive access tier of an Azure Storage account <ins>can be accessed at any time by using azcopy.exe</ins>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. can only be read by using Azure Backup
@@ -1433,7 +1433,7 @@
 
 ---
 
-### 125. "Azure Cosmos DB is an example of a <u>platform as a service (PaaS)</u> offering." Is the underlined text correct?
+### 125. "Azure Cosmos DB is an example of a <ins>platform as a service (PaaS)</ins> offering." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. infrastructure as a service (IaaS)
@@ -1517,15 +1517,15 @@
 ## Section 2: Hotspot (97 Questions)
 
 ### 132. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q01_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q01_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q01_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q01_answer.jpg)
 
 > **Explanation:**
 >
@@ -1538,15 +1538,15 @@
 ---
 
 ### 133. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q02_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q02_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q02_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q02_answer.jpg)
 
 > **Explanation:**
 >
@@ -1559,15 +1559,15 @@
 ---
 
 ### 134. Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases? To answer, select the appropriate options in the answer area.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q03_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q03_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q03_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q03_answer.jpg)
 
 > **Explanation:**
 >
@@ -1578,15 +1578,15 @@
 ---
 
 ### 135. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q04_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q04_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q04_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q04_answer.jpg)
 
 > **Explanation:**
 >
@@ -1603,11 +1603,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q05_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q05_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q05_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q05_answer.jpg)
 
 > **Explanation:** Answer: Help + support On the Help and Support blade, there is a Service Health option. If you click Service Health, a new blade opens. The Service Health blade contains the Planned Maintenance link which opens a blade where you can view a list of planned maintenance events that can affect the availability of an Azure subscription.
 
@@ -1621,26 +1621,26 @@ Which database service should you deploy? To answer, select the appropriate serv
 
 **Hot Area:**
 
-![Hot Area](images/q06_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q06_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q06_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q06_answer.jpg)
 
 > **Explanation:** Azure Cosmos DB is the correct answer. It is a globally distributed, multi-model database that supports multi-region concurrent writes and natively stores JSON documents.
 
 ---
 
 ### 138. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q07_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q07_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q07_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q07_answer.jpg)
 
 > **Explanation:**
 >
@@ -1653,15 +1653,15 @@ Which database service should you deploy? To answer, select the appropriate serv
 ---
 
 ### 139. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q08_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q08_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q08_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q08_answer.jpg)
 
 > **Explanation:**
 >
@@ -1676,17 +1676,17 @@ Which database service should you deploy? To answer, select the appropriate serv
 ### 140. Several support engineers plan to manage Azure by using the computers shown in the following table:  
 You need to identify which Azure management tools can be used from each computer.  
 What should you identify for each computer? To answer, select the appropriate options in the answer area.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
-![Table](images/q09_table.jpg)
+![Table](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q09_table.jpg)
 
 **Hot Area:**
 
-![Hot Area](images/q09_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q09_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q09_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q09_answer.jpg)
 
 > **Explanation:** Previously, the Azure CLI (or x-plat CLI) was the only option for managing Azure subscriptions and resources from the command-line on Linux and macOS. Now with the open source and cross-platform release of PowerShell, you’ll be able to manage all your Azure resources from Windows, Linux and macOS using your tool of choice, either the Azure CLI or Azure PowerShell cmdlets. The Azure portal runs in a web browser so can be used in either operating system.
 
@@ -1696,30 +1696,30 @@ What should you identify for each computer? To answer, select the appropriate op
 The application will run on an Azure virtual machine.  
 You need to recommend a deployment solution for the application. The solution must provide a guaranteed availability of 99.99 percent.  
 What is the minimum number of virtual machines and the minimum number of availability zones you should recommend for the deployment? To answer, select the appropriate options in the answer area.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q10_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q10_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q10_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q10_answer.jpg)
 
 > **Explanation:** You need a minimum of two virtual machines with each one located in a different availability zone. Availability Zones is a high-availability offering that protects your applications and data from datacenter failures. Availability Zones are unique physical locations within an Azure region. Each zone is made up of one or more datacenters equipped with independent power, cooling, and networking. To ensure resiliency, there’s a minimum of three separate zones in all enabled regions. The physical separation of Availability Zones within a region protects applications and data from datacenter failures. Zone-redundant services replicate your applications and data across Availability Zones to protect from single-points-of-failure. With Availability Zones, Azure offers industry best 99.99% VM uptime SLA.
 
 ---
 
 ### 142. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q11_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q11_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q11_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q11_answer.jpg)
 
 > **Explanation:**
 >
@@ -1736,26 +1736,26 @@ Which Azure portal icon should you select? To answer, select the appropriate ico
 
 **Hot Area:**
 
-![Hot Area](images/q12_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q12_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q12_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q12_answer.jpg)
 
 > **Explanation:** Answer: >_ You can access Azure Cloud Shell in the Azure portal by clicking the icon. Azure Cloud Shell is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell. Cloud Shell enables access to a browser-based command-line experience built with Azure management tasks in mind.
 
 ---
 
 ### 144. You have an Azure environment that contains 10 web apps. To which URL should you connect to manage all the Azure resources? To answer, select the appropriate options in the answer area.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q13_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q13_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q13_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q13_answer.jpg)
 
 > **Explanation:** Answer: portal.azure.com — Connect to https://portal.azure.com to manage all Azure resources via the web-based Azure portal.
 
@@ -1767,26 +1767,26 @@ Which Azure resource should you create? To answer, select the appropriate resour
 
 **Hot Area:**
 
-![Hot Area](images/q14_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q14_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q14_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q14_answer.jpg)
 
 > **Explanation:** A Local Network Gateway is an object in Azure that represents your on-premise VPN device. A Virtual Network Gateway is the VPN object at the Azure end of the VPN. A ‘connection’ is what connects the Local Network Gateway an the Virtual Network Gateway to bring up the VPN. The local network gateway typically refers to your on-premises location. You give the site a name by which Azure can refer to it, then specify the IP address of the on-premises VPN device to which you will create a connection. You also specify the IP address prefixes that will be routed through the VPN gateway to the VPN device. The address prefixes you specify are the prefixes located on your on-premises network. If your on-premises network changes or you need to change the public IP address for the VPN device, you can easily update the values later.
 
 ---
 
 ### 146. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q15_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q15_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q15_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q15_answer.jpg)
 
 > **Explanation:**
 >
@@ -1804,11 +1804,11 @@ Which setting should you use? To answer, select the appropriate setting in the a
 
 **Hot Area:**
 
-![Hot Area](images/q16_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q16_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q16_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q16_answer.jpg)
 
 > **Explanation:** You can configure a lock on a resource group to prevent the accidental deletion. As an administrator, you may need to lock a subscription, resource group, or resource to prevent other users in your organization from accidentally deleting or modifying critical resources. You can set the lock level toCanNotDelete orReadOnly. In the portal, the locks are calledDelete andRead-only respectively. CanNotDelete means authorized users can still read and modify a resource, but they can't delete the resource. ReadOnly means authorized users can read a resource, but they can't delete or update the resource. Applying this lock is similar to restricting all authorized users to the permissions granted by the Reader role.
 
@@ -1820,11 +1820,11 @@ What should you identify? To answer, select the appropriate service in the answe
 
 **Hot Area:**
 
-![Hot Area](images/q17_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q17_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q17_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q17_answer.jpg)
 
 > **Explanation:** Answer: Azure Managed Disks — Azure Managed Disks are block-level storage volumes managed by Azure and used with Azure Virtual Machines.
 
@@ -1834,15 +1834,15 @@ What should you identify? To answer, select the appropriate service in the answe
 Monitor threats by using sensors  
 Enforce azure Multi-Factor Authentication (MFA) based on a condition  
 Which Azure service should you identify for each requirement? To answer, select the appropriate option in the answer area.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q18_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q18_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q18_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q18_answer.jpg)
 
 > **Explanation:**
 >
@@ -1853,15 +1853,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 150. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q19_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q19_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q19_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q19_answer.jpg)
 
 > **Explanation:**
 >
@@ -1874,15 +1874,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 151. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q20_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q20_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q20_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q20_answer.jpg)
 
 > **Explanation:**
 >
@@ -1895,15 +1895,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 152. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q21_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q21_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q21_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q21_answer.jpg)
 
 > **Explanation:**
 >
@@ -1916,15 +1916,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 153. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q22_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q22_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q22_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q22_answer.jpg)
 
 > **Explanation:**
 >
@@ -1937,15 +1937,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 154. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q23_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q23_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q23_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q23_answer.jpg)
 
 > **Explanation:**
 >
@@ -1958,15 +1958,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 155. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q24_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q24_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q24_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q24_answer.jpg)
 
 > **Explanation:**
 >
@@ -1979,15 +1979,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 156. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q25_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q25_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q25_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q25_answer.jpg)
 
 > **Explanation:**
 >
@@ -2000,15 +2000,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 157. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q26_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q26_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q26_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q26_answer.jpg)
 
 > **Explanation:**
 >
@@ -2021,15 +2021,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 158. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q27_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q27_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q27_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q27_answer.jpg)
 
 > **Explanation:**
 >
@@ -2042,15 +2042,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 159. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q28_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q28_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q28_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q28_answer.jpg)
 
 > **Explanation:**
 >
@@ -2063,15 +2063,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 160. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q29_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q29_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q29_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q29_answer.jpg)
 
 > **Explanation:**
 >
@@ -2084,15 +2084,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 161. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q30_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q30_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q30_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q30_answer.jpg)
 
 > **Explanation:** Public Preview means that the service is in public beta and can be tried out by anyone with an Azure subscription. Services in public preview are often offered at a discount price.
 >
@@ -2105,15 +2105,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 162. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q31_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q31_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q31_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q31_answer.jpg)
 
 > **Explanation:**
 >
@@ -2126,30 +2126,30 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 163. How should you calculate the monthly uptime percentage? To answer, select the appropriate options in the answer area.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q32_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q32_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q32_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q32_answer.jpg)
 
 > **Explanation:** The monthly uptime percentage formula and correct values are shown in the Correct Answer image above.
 
 ---
 
 ### 164. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q33_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q33_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q33_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q33_answer.jpg)
 
 > **Explanation:**
 >
@@ -2162,15 +2162,15 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 165. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q34_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q34_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q34_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q34_answer.jpg)
 
 > **Explanation:**
 >
@@ -2187,15 +2187,15 @@ View security recommendations.
 Monitor the health of Azure services.  
 Browse available virtual machine images.  
 Which blade should you identify for each task? To answer, select the appropriate options in the answer area.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q35_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q35_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q35_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q35_answer.jpg)
 
 > **Explanation:**
 >
@@ -2208,28 +2208,28 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 167. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q36_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q36_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q36_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q36_answer.jpg)
 
 ---
 
 ### 168. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q37_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q37_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q37_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q37_answer.jpg)
 
 > **Explanation:**
 >
@@ -2242,15 +2242,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 169. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q38_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q38_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q38_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q38_answer.jpg)
 
 > **Explanation:**
 >
@@ -2263,15 +2263,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 170. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q39_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q39_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q39_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q39_answer.jpg)
 
 > **Explanation:**
 >
@@ -2284,15 +2284,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 171. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q40_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q40_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q40_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q40_answer.jpg)
 
 > **Explanation:**
 >
@@ -2304,15 +2304,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 
 ---
 
-### 172. For each of the following statements, select Yes if the statement is true. Otherwise, select No.<u>NOTE: Each correct selection is worth one point.</u>
+### 172. For each of the following statements, select Yes if the statement is true. Otherwise, select No.<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q41_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q41_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q41_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q41_answer.jpg)
 
 > **Explanation:**
 >
@@ -2325,15 +2325,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 173. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point</u>
+<ins>NOTE: Each correct selection is worth one point</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q42_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q42_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q42_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q42_answer.jpg)
 
 > **Explanation:**
 >
@@ -2346,15 +2346,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 174. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q43_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q43_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q43_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q43_answer.jpg)
 
 > **Explanation:**
 >
@@ -2367,15 +2367,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 175. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q44_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q44_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q44_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q44_answer.jpg)
 
 > **Explanation:** One of the major changes that you will face when you move from on-premises cloud to the public cloud is the switch from capital expenditure (buying hardware) to operating expenditure (paying for service as you use it).
 >
@@ -2388,15 +2388,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 176. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q45_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q45_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q45_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q45_answer.jpg)
 
 > **Explanation:**
 >
@@ -2409,15 +2409,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 177. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q46_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q46_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q46_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q46_answer.jpg)
 
 > **Explanation:**
 >
@@ -2430,15 +2430,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 178. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q47_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q47_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q47_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q47_answer.jpg)
 
 > **Explanation:**
 >
@@ -2451,15 +2451,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 179. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q48_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q48_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q48_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q48_answer.jpg)
 
 > **Explanation:**
 >
@@ -2472,15 +2472,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 180. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q49_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q49_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q49_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q49_answer.jpg)
 
 > **Explanation:**
 >
@@ -2493,15 +2493,15 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 181. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q50_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q50_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q50_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q50_answer.jpg)
 
 > **Explanation:**
 >
@@ -2514,30 +2514,30 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 182. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q51_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q51_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q51_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q51_answer.jpg)
 
 > **Explanation:** Azure AD join only applies to Windows 10 devices.
 
 ---
 
 ### 183. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q52_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q52_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q52_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q52_answer.jpg)
 
 > **Explanation:**
 >
@@ -2554,26 +2554,26 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q53_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q53_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q53_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q53_answer.jpg)
 
 > **Explanation:** Request a standard quota increase from Help + support
 
 ---
 
 ### 185. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q54_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q54_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q54_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q54_answer.jpg)
 
 > **Explanation:**
 >
@@ -2586,15 +2586,15 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 186. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q55_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q55_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q55_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q55_answer.jpg)
 
 > **Explanation:**
 >
@@ -2607,15 +2607,15 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 187. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q56_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q56_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q56_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q56_answer.jpg)
 
 > **Explanation:**
 >
@@ -2628,15 +2628,15 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 188. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q57_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q57_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q57_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q57_answer.jpg)
 
 ---
 
@@ -2644,11 +2644,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q58_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q58_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q58_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q58_answer.jpg)
 
 > **Explanation:** When you are implementing a Software as a Service (SaaS) solution, you are responsible for configuring the SaaS solution. Everything else is managed by the cloud provider. SaaS requires the least amount of management. The cloud provider is responsible for managing everything, and the end user just uses the software. Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring and office tools (such as Microsoft Office 365). SaaS provides a complete software solution which you purchase on a pay-as-you-go basis from a cloud service provider. You rent the use of an app for your organization and your users connect to it over the Internet, usually with a web browser. All of the underlying infrastructure, middleware, app software and app data are located in the service provider’s data center. The service provider manages the hardware and software and with the appropriate service agreement, will ensure the availability and the security of the app and your data as well.
 
@@ -2658,11 +2658,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q59_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q59_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q59_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q59_answer.jpg)
 
 > **Explanation:** When planning to migrate a public website to Azure, you must plan to pay monthly usage costs. This is because Azure uses the pay-as-you-go model.
 
@@ -2672,11 +2672,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q60_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q60_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q60_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q60_answer.jpg)
 
 > **Explanation:** Azure Cosmos DB is an example of a platform as a service (PaaS) cloud database provider.
 
@@ -2686,26 +2686,26 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q61_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q61_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q61_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q61_answer.jpg)
 
 > **Explanation:** You can move a VM and its associated resources to a different subscription by using the Azure portal. Moving between subscriptions can be handy if you originally created a VM in a personal subscription and now want to move it to your company's subscription to continue your work. You do not need to start the VM in order to move it and it should continue to run during the move.
 
 ---
 
 ### 193. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q62_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q62_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q62_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q62_answer.jpg)
 
 > **Explanation:**
 >
@@ -2718,15 +2718,15 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 194. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q63_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q63_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q63_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q63_answer.jpg)
 
 > **Explanation:** Availability zones expand the level of control you have to maintain the availability of the applications and data on your VMs. Availability Zones are unique physical locations within an Azure region. Each zone is made up of one or more datacenters equipped with independent power, cooling, and networking. To ensure resiliency, there are a minimum of three separate zones in all enabled regions. The physical separation of Availability Zones within a region protects applications and data from datacenter failures. With Availability Zones, Azure offers industry best 99.99% VM uptime SLA. By architecting your solutions to use replicated VMs in zones, you can protect your applications and data from the loss of a datacenter. If one zone is compromised, then replicated apps and data are instantly available in another zone.
 
@@ -2736,11 +2736,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q64_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q64_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q64_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q64_answer.jpg)
 
 > **Explanation:** Answer: be deployed to a separate virtual network — Azure automatically routes traffic between VMs in the same virtual network. To prevent VM1 from connecting to other VMs, it must be deployed to a separate virtual network.
 
@@ -2750,11 +2750,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q65_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q65_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q65_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q65_answer.jpg)
 
 > **Explanation:** Answer: to the same resource group — To delegate permissions to multiple Azure VMs simultaneously, the VMs must be in the same resource group so that RBAC permissions can be applied at the resource group level.
 
@@ -2764,11 +2764,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q66_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q66_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q66_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q66_answer.jpg)
 
 > **Explanation:** Answer: must be rehydrated before the data can be accessed — Data stored in the Archive access tier cannot be accessed directly. It must be rehydrated (moved to Hot or Cool tier) before it can be read.
 
@@ -2778,11 +2778,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q67_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q67_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q67_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q67_answer.jpg)
 
 > **Explanation:** Answer: Azure Resource Manager templates provide — ARM templates provide a common platform for deploying objects to a cloud infrastructure and implementing consistency across the Azure environment.
 
@@ -2792,11 +2792,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q68_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q68_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q68_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q68_answer.jpg)
 
 > **Explanation:** Answer: the delete lock must be removed before an administrator — If a resource group has a delete lock, the lock must be removed before any administrator can delete the resource group.
 
@@ -2806,11 +2806,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q69_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q69_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q69_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q69_answer.jpg)
 
 > **Explanation:** Answer: Azure Activity Log — The Azure Activity Log records all operations performed on Azure resources, including who turned off a specific virtual machine and when.
 
@@ -2820,11 +2820,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q70_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q70_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q70_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q70_answer.jpg)
 
 > **Explanation:** Answer: Azure Information Protection — Azure Information Protection is used to automatically classify and protect documents. It can add watermarks to Word documents that contain sensitive data such as credit card information.
 
@@ -2834,11 +2834,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q71_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q71_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q71_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q71_answer.jpg)
 
 > **Explanation:** Answer: continues to function normally — When an Azure Policy of type 'Not Allowed Resource Type' is assigned to a resource group, existing non-compliant resources (like VNET1) are marked as non-compliant but continue to function. They are not deleted or moved.
 
@@ -2848,11 +2848,11 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q72_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q72_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q72_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q72_answer.jpg)
 
 > **Explanation:** Answer: Authentication — Authentication is the process of verifying a user's identity and credentials. Authorization is the process of determining what an authenticated user is allowed to do.
 
@@ -2862,55 +2862,55 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 **Hot Area:**
 
-![Hot Area](images/q73_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q73_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q73_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q73_answer.jpg)
 
 > **Explanation:** Answer: credit your Azure account — When an Azure SLA is not met due to a service outage, Microsoft credits your Azure account. The credit amount depends on the severity and duration of the downtime.
 
 ---
 
 ### 205. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q74_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q74_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q74_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q74_answer.jpg)
 
 ---
 
 ### 206. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q75_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q75_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q75_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q75_answer.jpg)
 
 ---
 
 ### 207. Several support engineers plan to manage Azure by using the computers shown in the following table:  
 You need to identify which Azure management tools can be used from each computer. What should you identify for each computer? To answer, select the appropriate options in the answer area.  
-<u>NOTE: Each correct selection is worth one point</u>
+<ins>NOTE: Each correct selection is worth one point</ins>
 
-![Table](images/q76_table.jpg)
+![Table](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q76_table.jpg)
 
 **Hot Area:**
 
-![Hot Area](images/q76_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q76_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q76_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q76_answer.jpg)
 
 > **Explanation:** The Correct Answer image shows the management tool availability per computer type. Azure CLI and PowerShell are cross-platform (Windows, Linux, macOS). The Azure portal works via any browser. Cloud Shell works from any browser through the portal.
 
@@ -2920,11 +2920,11 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q77_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q77_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q77_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q77_answer.jpg)
 
 > **Explanation:** Azure Site Recovery helps ensure business continuity by keeping business apps and workloads running during outages. Site Recovery replicates workloads running on physical and virtual machines (VMs) from a primary site to a secondary location.
 
@@ -2934,11 +2934,11 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q78_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q78_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q78_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q78_answer.jpg)
 
 > **Explanation:** Answer: network security group (NSG) — After creating a virtual machine, you need to modify the Network Security Group (NSG) to allow connections to TCP port 8080 on the virtual machine.
 
@@ -2948,11 +2948,11 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q79_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q79_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q79_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q79_answer.jpg)
 
 > **Explanation:** Answer: Microsoft Online Services Privacy Statement — The Microsoft Online Services Privacy Statement explains what personal data Microsoft processes, how it processes the data, and the purpose of processing.
 
@@ -2962,11 +2962,11 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q80_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q80_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q80_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q80_answer.jpg)
 
 > **Explanation:** Answer: collection of policy definitions — An Azure Policy initiative is a collection of policy definitions grouped together to achieve a single goal or objective.
 
@@ -2976,11 +2976,11 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q81_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q81_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q81_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q81_answer.jpg)
 
 > **Explanation:** Answer: excluded from the Service Level Agreements — All Azure services in public preview are excluded from the standard Service Level Agreements (SLAs). Preview features are provided 'as-is'.
 
@@ -2990,11 +2990,11 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q82_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q82_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q82_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q82_answer.jpg)
 
 > **Explanation:** Answer: public preview — An Azure service is available to all Azure customers when it is in public preview. Private preview is limited to selected customers; general availability (GA) is the fully released state.
 
@@ -3004,26 +3004,26 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q83_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q83_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q83_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q83_answer.jpg)
 
 > **Explanation:** Answer: start an existing Azure virtual machine — When your Azure trial account expires, you are unable to start existing virtual machines. However, you can still access the Azure portal and your stored data.
 
 ---
 
 ### 215. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q84_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q84_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q84_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q84_answer.jpg)
 
 > **Explanation:**
 >
@@ -3039,11 +3039,11 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q85_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q85_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q85_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q85_answer.jpg)
 
 > **Explanation:** Answer: in the public cloud — An organization that hosts its infrastructure in the public cloud no longer requires a data center, as all infrastructure is managed by the cloud provider.
 
@@ -3053,11 +3053,11 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q86_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q86_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q86_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q86_answer.jpg)
 
 > **Explanation:** Answer: the product of both SLAs, which equals 99.94 percent — The composite SLA is calculated by multiplying the individual SLAs: 99.95% × 99.99% = 99.94%. This is because both services must be available simultaneously.
 
@@ -3067,26 +3067,26 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q87_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q87_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q87_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q87_answer.jpg)
 
 > **Explanation:** Answer: hybrid — An Azure web app that queries an on-premises Microsoft SQL Server uses both cloud and on-premises resources, making it an example of a hybrid cloud.
 
 ---
 
 ### 219. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q88_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q88_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q88_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q88_answer.jpg)
 
 > **Explanation:**
 >
@@ -3099,15 +3099,15 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 220. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q89_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q89_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q89_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q89_answer.jpg)
 
 > **Explanation:**
 >
@@ -3123,26 +3123,26 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q90_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q90_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q90_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q90_answer.jpg)
 
 > **Explanation:** Answer: Azure Security Center — You can enable just-in-time (JIT) VM access by using Azure Security Center. JIT locks down inbound traffic to Azure VMs by creating NSG rules that allow access only when needed.
 
 ---
 
 ### 222. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q91_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q91_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q91_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q91_answer.jpg)
 
 > **Explanation:**
 >
@@ -3155,15 +3155,15 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 223. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q92_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q92_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q92_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q92_answer.jpg)
 
 > **Explanation:**
 >
@@ -3176,15 +3176,15 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 224. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q93_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q93_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q93_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q93_answer.jpg)
 
 > **Explanation:**
 >
@@ -3200,26 +3200,26 @@ You need to identify which Azure management tools can be used from each computer
 
 **Hot Area:**
 
-![Hot Area](images/q94_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q94_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q94_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q94_answer.jpg)
 
 > **Explanation:** Answer: Azure policies — Azure policies provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions by enforcing rules and effects.
 
 ---
 
 ### 226. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q95_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q95_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q95_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q95_answer.jpg)
 
 > **Explanation:**
 >
@@ -3232,15 +3232,15 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 227. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q96_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q96_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q96_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q96_answer.jpg)
 
 > **Explanation:**
 >
@@ -3253,15 +3253,15 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 228. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Hot Area:**
 
-![Hot Area](images/q97_question.jpg)
+![Hot Area](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q97_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/q97_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q97_answer.jpg)
 
 > **Explanation:**
 >
@@ -3281,15 +3281,15 @@ You need to identify which Azure management tools can be used from each computer
 
 ### 229. Match the Azure service to the correct definition.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<u>NOTE: Each correct match is worth one point.</u>
+<ins>NOTE: Each correct match is worth one point.</ins>
 
 **Select and Place:**
 
-![Select and Place](images/dd01_question.jpg)
+![Select and Place](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd01_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/dd01_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd01_answer.jpg)
 
 > **Explanation:**
 >
@@ -3305,15 +3305,15 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 230. Match the Azure service to the correct description.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Select and Place:**
 
-![Select and Place](images/dd02_question.jpg)
+![Select and Place](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd02_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/dd02_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd02_answer.jpg)
 
 > **Explanation:**
 >
@@ -3329,15 +3329,15 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 231. Match the Azure service to the correct definition.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Select and Place:**
 
-![Select and Place](images/dd03_question.jpg)
+![Select and Place](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd03_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/dd03_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd03_answer.jpg)
 
 > **Explanation:**
 >
@@ -3353,15 +3353,15 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 232. Match the term to the correct definition.  
 Instructions: To answer, drag the appropriate term from the column on the left to its description on the right. Each term may be used once, more than once, or not at all.  
-<u>NOTE: Each correct match is worth one point.</u>
+<ins>NOTE: Each correct match is worth one point.</ins>
 
 **Select and Place:**
 
-![Select and Place](images/dd04_question.jpg)
+![Select and Place](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd04_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/dd04_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd04_answer.jpg)
 
 > **Explanation:**
 >
@@ -3377,15 +3377,15 @@ Instructions: To answer, drag the appropriate term from the column on the left t
 
 ### 233. Match the Azure Cloud Services benefit to the correct description.  
 Instructions: To answer, drag the appropriate benefit from the column on the left to its description on the right. Each benefit may be used once, more than once, or not at all.  
-<u>NOTE: Each correct match is worth one point.</u>
+<ins>NOTE: Each correct match is worth one point.</ins>
 
 **Select and Place:**
 
-![Select and Place](images/dd05_question.jpg)
+![Select and Place](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd05_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/dd05_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd05_answer.jpg)
 
 > **Explanation:**
 >
@@ -3401,15 +3401,15 @@ Instructions: To answer, drag the appropriate benefit from the column on the lef
 
 ### 234. Match the Azure service to the correct description.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<u>NOTE: Each correct match is worth one point.</u>
+<ins>NOTE: Each correct match is worth one point.</ins>
 
 **Select and Place:**
 
-![Select and Place](images/dd06_question.jpg)
+![Select and Place](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd06_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/dd06_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd06_answer.jpg)
 
 > **Explanation:**
 >
@@ -3425,15 +3425,15 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 235. Match the Azure service to the correct description.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<u>NOTE: Each correct selection is worth one point.</u>
+<ins>NOTE: Each correct selection is worth one point.</ins>
 
 **Select and Place:**
 
-![Select and Place](images/dd07_question.jpg)
+![Select and Place](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd07_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/dd07_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd07_answer.jpg)
 
 > **Explanation:**
 >
@@ -3449,15 +3449,15 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 236. Match the cloud model to the correct advantage.  
 Instructions: To answer, drag the appropriate cloud model from the column on the left to its advantage on the right. Each cloud model may be used once, more than once, or not at all.  
-<u>NOTE: Each correct match is worth one point.</u>
+<ins>NOTE: Each correct match is worth one point.</ins>
 
 **Select and Place:**
 
-![Select and Place](images/dd08_question.jpg)
+![Select and Place](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd08_question.jpg)
 
 **Correct Answer:**
 
-![Correct Answer](images/dd08_answer.jpg)
+![Correct Answer](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/dd08_answer.jpg)
 
 > **Explanation:**
 >
