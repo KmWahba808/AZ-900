@@ -258,7 +258,7 @@
 
 ---
 
-### 24. "An Azure region <u>contains one or more data centers that are connected by using a low-latency network</u>." Is the underlined text correct?
+### 24. "An Azure region <ins>contains one or more data centers that are connected by using a low-latency network<ins>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Is found in each country where Microsoft has a subsidiary office
