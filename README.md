@@ -258,7 +258,7 @@
 
 ---
 
-### 24. "An Azure region <ins>contains one or more data centers that are connected by using a low-latency network</ins>." Is the underlined text correct?
+### 24. "An Azure region <u>contains one or more data centers that are connected by using a low-latency network</u>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Is found in each country where Microsoft has a subsidiary office
@@ -270,7 +270,7 @@
 
 ---
 
-### 25. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <ins>to the same Azure region</ins>." Is the underlined portion correct?
+### 25. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <u>to the same Azure region</u>." Is the underlined portion correct?
 
 - [ ] A. No change is needed
 - [ ] B. by using the same Azure Resource Manager template
@@ -294,7 +294,7 @@
 
 ---
 
-### 27. "One of the benefits of Azure SQL Data Warehouse is that <ins>high availability</ins> is built into the platform." Is the underlined text correct?
+### 27. "One of the benefits of Azure SQL Data Warehouse is that <u>high availability</u> is built into the platform." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. automatic scaling
@@ -665,7 +665,7 @@
 
 ---
 
-### 59. "Azure Key Vault is used to store secrets for <ins>Azure Active Directory (Azure AD) user accounts</ins>." Is the underlined text correct?
+### 59. "Azure Key Vault is used to store secrets for <u>Azure Active Directory (Azure AD) user accounts</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Azure Active Directory (Azure AD) administrative accounts
@@ -701,7 +701,7 @@
 
 ---
 
-### 62. "Azure Germany can be used by <ins>legal residents of Germany only</ins>." Is the underlined text correct?
+### 62. "Azure Germany can be used by <u>legal residents of Germany only</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. only enterprises that are registered in Germany
@@ -802,7 +802,7 @@
 
 ---
 
-### 71. "<ins>Resource groups</ins> provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions." Is the underlined text correct?
+### 71. "<u>Resource groups</u> provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Management groups
@@ -950,7 +950,7 @@
 
 ---
 
-### 84. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <ins>Microsoft will automatically refund your bank account</ins>." Is the underlined text correct?
+### 84. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <u>Microsoft will automatically refund your bank account</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. migrate the resource to another subscription
@@ -974,7 +974,7 @@
 
 ---
 
-### 86. "If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least <ins>12 months before</ins>." Is the underlined text correct?
+### 86. "If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least <u>12 months before</u>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. 6 months
@@ -1016,7 +1016,7 @@
 
 ---
 
-### 90. "A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a <ins>Standard support plan</ins>." Is the underlined text correct?
+### 90. "A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a <u>Standard support plan</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Developer
@@ -1040,7 +1040,7 @@
 
 ---
 
-### 92. "You can create an Azure support request from <ins>support.microsoft.com</ins>." Is the underlined text correct?
+### 92. "You can create an Azure support request from <u>support.microsoft.com</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. the Azure portal
@@ -1062,7 +1062,7 @@
 
 ---
 
-### 94. "The Azure <ins>Standard</ins> support plan is the lowest cost option to receive 24x7 access to support engineers by phone." Is the underlined text correct?
+### 94. "The Azure <u>Standard</u> support plan is the lowest cost option to receive 24x7 access to support engineers by phone." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Developer
@@ -1095,7 +1095,7 @@
 
 ---
 
-### 97. "<ins>Azure Databricks</ins> is an Apache Spark-based analytics service." Is the underlined text correct?
+### 97. "<u>Azure Databricks</u> is an Apache Spark-based analytics service." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Azure Data Factory
@@ -1119,7 +1119,7 @@
 
 ---
 
-### 99. "From Azure <ins>Cloud Shell</ins>, you can track your company's regulatory standards and regulations, such as ISO 27001." Is the underlined text correct?
+### 99. "From Azure <u>Cloud Shell</u>, you can track your company's regulatory standards and regulations, such as ISO 27001." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. the Microsoft Cloud Partner Portal
@@ -1143,7 +1143,7 @@
 
 ---
 
-### 101. "You can use <ins>Advisor recommendations</ins> in Azure to send email alerts when the cost of the current billing period exceeds a specified limit." Is the underlined text correct?
+### 101. "You can use <u>Advisor recommendations</u> in Azure to send email alerts when the cost of the current billing period exceeds a specified limit." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. Access control (IAM)
@@ -1155,7 +1155,7 @@
 
 ---
 
-### 102. "An Availability Zone in Azure has physically separate locations <ins>across two continents</ins>." Is the underlined text correct?
+### 102. "An Availability Zone in Azure has physically separate locations <u>across two continents</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. within a single Azure region
@@ -1167,7 +1167,7 @@
 
 ---
 
-### 103. "You have several virtual machines in an Azure subscription. You create a new subscription. <ins>The virtual machines cannot be moved to the new subscription</ins>." Is the underlined text correct?
+### 103. "You have several virtual machines in an Azure subscription. You create a new subscription. <u>The virtual machines cannot be moved to the new subscription</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. The virtual machines can be moved to the new subscription
@@ -1179,7 +1179,7 @@
 
 ---
 
-### 104. "When planning to migrate a public website to Azure, <ins>you must plan to pay monthly usage costs</ins>." Is the underlined text correct?
+### 104. "When planning to migrate a public website to Azure, <u>you must plan to pay monthly usage costs</u>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. Deploy a VPN
@@ -1191,7 +1191,7 @@
 
 ---
 
-### 105. "You plan to deploy 20 virtual machines. To ensure VM1 cannot connect to the other virtual machines, VM1 must be deployed <ins>to a separate virtual network</ins>." Is the underlined text correct?
+### 105. "You plan to deploy 20 virtual machines. To ensure VM1 cannot connect to the other virtual machines, VM1 must be deployed <u>to a separate virtual network</u>." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. run a different operating system than the other virtual machines
@@ -1203,7 +1203,7 @@
 
 ---
 
-### 106. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <ins>to the same Azure region</ins>." Is the underlined text correct?
+### 106. "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines <u>to the same Azure region</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. by using the same Azure Resource Manager template
@@ -1215,7 +1215,7 @@
 
 ---
 
-### 107. "If a resource group named RG1 has a delete lock, <ins>only a member of the global administrators group can delete RG1</ins>." Is the underlined text correct?
+### 107. "If a resource group named RG1 has a delete lock, <u>only a member of the global administrators group can delete RG1</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. the delete lock must be removed before an administrator can delete RG1
@@ -1227,7 +1227,7 @@
 
 ---
 
-### 108. "Your company implements <ins>Azure policies</ins> to automatically add a watermark to Microsoft Word documents that contain credit card information." Is the underlined text correct?
+### 108. "Your company implements <u>Azure policies</u> to automatically add a watermark to Microsoft Word documents that contain credit card information." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. DDoS protection
@@ -1239,7 +1239,7 @@
 
 ---
 
-### 109. "<ins>Authorizatio</ins> is the process of verifying a user's credentials." Is the underlined text correct?
+### 109. "<u>Authorizatio</u> is the process of verifying a user's credentials." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [x] B. Authentication
@@ -1251,7 +1251,7 @@
 
 ---
 
-### 110. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <ins>Microsoft will automatically refund your bank account</ins>." Is the underlined text correct?
+### 110. "You deploy an Azure resource. The resource becomes unavailable due to a service outage. <u>Microsoft will automatically refund your bank account</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. automatically migrate the resource to another subscription
@@ -1421,7 +1421,7 @@
 
 ---
 
-### 124. "Data that is stored in the Archive access tier of an Azure Storage account <ins>can be accessed at any time by using azcopy.exe</ins>." Is the underlined text correct?
+### 124. "Data that is stored in the Archive access tier of an Azure Storage account <u>can be accessed at any time by using azcopy.exe</u>." Is the underlined text correct?
 
 - [ ] A. No change is needed
 - [ ] B. can only be read by using Azure Backup
@@ -1433,7 +1433,7 @@
 
 ---
 
-### 125. "Azure Cosmos DB is an example of a <ins>platform as a service (PaaS)</ins> offering." Is the underlined text correct?
+### 125. "Azure Cosmos DB is an example of a <u>platform as a service (PaaS)</u> offering." Is the underlined text correct?
 
 - [x] A. No change is needed
 - [ ] B. infrastructure as a service (IaaS)
@@ -1517,7 +1517,7 @@
 ## Section 2: Hotspot (97 Questions)
 
 ### 132. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1538,7 +1538,7 @@
 ---
 
 ### 133. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1559,7 +1559,7 @@
 ---
 
 ### 134. Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases? To answer, select the appropriate options in the answer area.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1578,7 +1578,7 @@
 ---
 
 ### 135. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1632,7 +1632,7 @@ Which database service should you deploy? To answer, select the appropriate serv
 ---
 
 ### 138. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1653,7 +1653,7 @@ Which database service should you deploy? To answer, select the appropriate serv
 ---
 
 ### 139. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1676,7 +1676,7 @@ Which database service should you deploy? To answer, select the appropriate serv
 ### 140. Several support engineers plan to manage Azure by using the computers shown in the following table:  
 You need to identify which Azure management tools can be used from each computer.  
 What should you identify for each computer? To answer, select the appropriate options in the answer area.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 ![Table](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q09_table.jpg)
 
@@ -1696,7 +1696,7 @@ What should you identify for each computer? To answer, select the appropriate op
 The application will run on an Azure virtual machine.  
 You need to recommend a deployment solution for the application. The solution must provide a guaranteed availability of 99.99 percent.  
 What is the minimum number of virtual machines and the minimum number of availability zones you should recommend for the deployment? To answer, select the appropriate options in the answer area.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1711,7 +1711,7 @@ What is the minimum number of virtual machines and the minimum number of availab
 ---
 
 ### 142. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1747,7 +1747,7 @@ Which Azure portal icon should you select? To answer, select the appropriate ico
 ---
 
 ### 144. You have an Azure environment that contains 10 web apps. To which URL should you connect to manage all the Azure resources? To answer, select the appropriate options in the answer area.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1778,7 +1778,7 @@ Which Azure resource should you create? To answer, select the appropriate resour
 ---
 
 ### 146. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1834,7 +1834,7 @@ What should you identify? To answer, select the appropriate service in the answe
 Monitor threats by using sensors  
 Enforce azure Multi-Factor Authentication (MFA) based on a condition  
 Which Azure service should you identify for each requirement? To answer, select the appropriate option in the answer area.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1853,7 +1853,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 150. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1874,7 +1874,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 151. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1895,7 +1895,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 152. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1916,7 +1916,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 153. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1937,7 +1937,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 154. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1958,7 +1958,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 155. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -1979,7 +1979,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 156. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2000,7 +2000,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 157. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2021,7 +2021,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 158. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2042,7 +2042,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 159. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2063,7 +2063,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 160. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2084,7 +2084,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 161. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2105,7 +2105,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 162. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2126,7 +2126,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 163. How should you calculate the monthly uptime percentage? To answer, select the appropriate options in the answer area.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2141,7 +2141,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 164. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2162,7 +2162,7 @@ Which Azure service should you identify for each requirement? To answer, select 
 ---
 
 ### 165. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2187,7 +2187,7 @@ View security recommendations.
 Monitor the health of Azure services.  
 Browse available virtual machine images.  
 Which blade should you identify for each task? To answer, select the appropriate options in the answer area.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2208,7 +2208,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 167. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2221,7 +2221,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 168. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2242,7 +2242,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 169. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2263,7 +2263,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 170. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2284,7 +2284,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 171. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2304,7 +2304,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 
 ---
 
-### 172. For each of the following statements, select Yes if the statement is true. Otherwise, select No.<ins>NOTE: Each correct selection is worth one point.</ins>
+### 172. For each of the following statements, select Yes if the statement is true. Otherwise, select No.<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2325,7 +2325,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 173. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point</ins>
+<u>NOTE: Each correct selection is worth one point</u>
 
 **Hot Area:**
 
@@ -2346,7 +2346,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 174. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2367,7 +2367,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 175. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2388,7 +2388,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 176. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2409,7 +2409,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 177. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2430,7 +2430,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 178. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2451,7 +2451,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 179. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2472,7 +2472,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 180. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2493,7 +2493,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 181. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2514,7 +2514,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 182. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2529,7 +2529,7 @@ Which blade should you identify for each task? To answer, select the appropriate
 ---
 
 ### 183. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2565,7 +2565,7 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 185. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2586,7 +2586,7 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 186. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2607,7 +2607,7 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 187. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2628,7 +2628,7 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 188. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2697,7 +2697,7 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 193. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2718,7 +2718,7 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 194. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2873,7 +2873,7 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 205. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2886,7 +2886,7 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 ---
 
 ### 206. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -2900,7 +2900,7 @@ Which blade should you use from the Azure portal? To answer, select the appropri
 
 ### 207. Several support engineers plan to manage Azure by using the computers shown in the following table:  
 You need to identify which Azure management tools can be used from each computer. What should you identify for each computer? To answer, select the appropriate options in the answer area.  
-<ins>NOTE: Each correct selection is worth one point</ins>
+<u>NOTE: Each correct selection is worth one point</u>
 
 ![Table](https://raw.githubusercontent.com/KmWahba808/AZ-900/main/images/q76_table.jpg)
 
@@ -3015,7 +3015,7 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 215. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -3078,7 +3078,7 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 219. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -3099,7 +3099,7 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 220. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -3134,7 +3134,7 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 222. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -3155,7 +3155,7 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 223. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -3176,7 +3176,7 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 224. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -3211,7 +3211,7 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 226. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -3232,7 +3232,7 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 227. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -3253,7 +3253,7 @@ You need to identify which Azure management tools can be used from each computer
 ---
 
 ### 228. For each of the following statements, select Yes if the statement is true. Otherwise, select No.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Hot Area:**
 
@@ -3281,7 +3281,7 @@ You need to identify which Azure management tools can be used from each computer
 
 ### 229. Match the Azure service to the correct definition.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<ins>NOTE: Each correct match is worth one point.</ins>
+<u>NOTE: Each correct match is worth one point.</u>
 
 **Select and Place:**
 
@@ -3305,7 +3305,7 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 230. Match the Azure service to the correct description.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Select and Place:**
 
@@ -3329,7 +3329,7 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 231. Match the Azure service to the correct definition.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Select and Place:**
 
@@ -3353,7 +3353,7 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 232. Match the term to the correct definition.  
 Instructions: To answer, drag the appropriate term from the column on the left to its description on the right. Each term may be used once, more than once, or not at all.  
-<ins>NOTE: Each correct match is worth one point.</ins>
+<u>NOTE: Each correct match is worth one point.</u>
 
 **Select and Place:**
 
@@ -3377,7 +3377,7 @@ Instructions: To answer, drag the appropriate term from the column on the left t
 
 ### 233. Match the Azure Cloud Services benefit to the correct description.  
 Instructions: To answer, drag the appropriate benefit from the column on the left to its description on the right. Each benefit may be used once, more than once, or not at all.  
-<ins>NOTE: Each correct match is worth one point.</ins>
+<u>NOTE: Each correct match is worth one point.</u>
 
 **Select and Place:**
 
@@ -3401,7 +3401,7 @@ Instructions: To answer, drag the appropriate benefit from the column on the lef
 
 ### 234. Match the Azure service to the correct description.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<ins>NOTE: Each correct match is worth one point.</ins>
+<u>NOTE: Each correct match is worth one point.</u>
 
 **Select and Place:**
 
@@ -3425,7 +3425,7 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 235. Match the Azure service to the correct description.  
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all.  
-<ins>NOTE: Each correct selection is worth one point.</ins>
+<u>NOTE: Each correct selection is worth one point.</u>
 
 **Select and Place:**
 
@@ -3449,7 +3449,7 @@ Instructions: To answer, drag the appropriate Azure service from the column on t
 
 ### 236. Match the cloud model to the correct advantage.  
 Instructions: To answer, drag the appropriate cloud model from the column on the left to its advantage on the right. Each cloud model may be used once, more than once, or not at all.  
-<ins>NOTE: Each correct match is worth one point.</ins>
+<u>NOTE: Each correct match is worth one point.</u>
 
 **Select and Place:**
 
@@ -3466,3 +3466,4 @@ Instructions: To answer, drag the appropriate cloud model from the column on the
 > **Box 2: Private Cloud** — Hosted on-premises giving complete control over security.
 >
 > **Box 3: Hybrid Cloud** — Mix of public cloud and on-premises resources; use either as needed.
+
